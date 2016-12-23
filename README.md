@@ -2,6 +2,7 @@
 * Common Code Examples by Language
 
 ## Each example file contains:
+0. Interpreted invocation (where applicable)
 1. Import a module or library
 2. Define a variable
 3. Print "hello world"
