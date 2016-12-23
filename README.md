@@ -14,4 +14,4 @@
 9. Instantiate a class/object
 
 ## Development:
-* PRs welcome!
+* Additions and Corrections always welcome via Pull Request!
